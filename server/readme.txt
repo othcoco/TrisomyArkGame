@@ -1,0 +1,1 @@
+run go main.go to start game service.
